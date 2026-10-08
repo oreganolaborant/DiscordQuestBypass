@@ -1,0 +1,154 @@
+{
+  "games": [
+    {
+      "name": "Arena Breakout Infinite",
+      "path": "Arena Breakout Infinite\\ABInfinite\\Binaries\\Win64",
+      "executable": "CUAGame.exe"
+    },
+    {
+      "name": "Fortnite",
+      "path": "Fortnite\\FortniteGame\\Binaries\\Win64",
+      "executable": "FortniteClient-Win64-Shipping.exe"
+    },
+    {
+      "name": "Genshin Impact",
+      "path": "Genshin Impact\\Genshin Impact Game",
+      "executable": "GenshinImpact.exe"
+    },
+    {
+      "name": "Neverness To Everness",
+      "path": "NET\\Neverness To Everness\\Client\\WindowsNoEditor\\HT\\Binaries\\Win64",
+      "executable": "HTGame.exe"
+    },
+    {
+      "name": "NIKKE",
+      "path": "NIKKE\\NIKKE\\Game",
+      "executable": "Nikke.exe"
+    },
+    {
+      "name": "Once Human",
+      "path": "Once Human",
+      "executable": "ONCE_HUMAN.exe"
+    },
+    {
+      "name": "Skate",
+      "path": "Skate",
+      "executable": "skate.exe"
+    },
+    {
+      "name": "Star Rail",
+      "path": "Star Rail\\Games",
+      "executable": "StarRail.exe"
+    },
+    {
+      "name": "Torchlight Infinite",
+      "path": "Torchlight Infinite\\UE_game\\Binaries\\Win64",
+      "executable": "torchlight_infinite.exe"
+    },
+    {
+      "name": "Where Winds Meet",
+      "path": "Where Winds Meet\\Win64",
+      "executable": "wwm.exe"
+    },
+    {
+      "name": "delta force",
+      "path": "Delta Force\\Win64",
+      "executable": "DeltaForceClient-Win64-Shipping.exe"
+    },
+    {
+      "name": "Arknights Endfield",
+      "path": "Arknights Endfield\\EndField Game",
+      "executable": "Endfield.exe"
+    },
+    {
+      "name": "Roblox",
+      "path": "Roblox\\Versions\\version-9377ee10133e4be3",
+      "executable": "RobloxPlayerBeta.exe"
+    },
+    {
+      "name": "Rune Dice",
+      "path": "Rune Dice",
+      "executable": "Rune Dice.exe"
+    },
+    {
+      "name": "Path of Exile 2",
+      "path": "Grinding Gear Games\\Path of Exile 2",
+      "executable": "PathOfExile_x64Steam.exe"
+    },
+    {
+      "name": "World of Tanks: HEAT",
+      "path": "WoT HEAT",
+      "executable": "wgcs_api.exe"
+    },
+    {
+      "name": "Duet Night Abyss",
+      "path": "EM\\Binaries\\Win64",
+      "executable": "EM-Win64-Shipping.exe"
+    },
+    {
+      "name": "FC26",
+      "path": "EA Games\\EA SPORTS FC 26",
+      "executable": "FC26.exe"
+    },
+    {
+      "name": "Escape the backrooms",
+      "path": "EscapeTheBackrooms\\EscapeTheBackrooms\\Binaries\\Win64",
+      "executable": "Backrooms-Win64-Shipping.exe"
+    },
+    {
+      "name": "Wuthering Waves",
+      "path": "Wuthering Waves\\Wuthering Waves Game\\Client\\Binaries\\Win64",
+      "executable": "Client-Win64-Shipping.exe"
+    },
+    {
+      "name": "Yu-Gi-Oh! Master Duel",
+      "path": "Yu-Gi-Oh!  Master Duel",
+      "executable": "masterduel.exe"
+    },
+    {
+      "name": "The Mound Omen of Cthulhu Demo",
+      "path": "The Mound Omen of Cthulhu Demo\\TheMound\\Binaries\\Win64",
+      "executable": "TheMound-Win64-Shipping.exe"
+    },
+    {
+      "name": "EMPULSE",
+      "path": "Orion\\Orion\\Binaries\\Win64",
+      "executable": "OrionClient-Win64-Shipping.exe"
+    },
+    {
+      "name": "Warframe",
+      "path": "Warframe",
+      "executable": "Warframe.x64.exe"
+    },
+    {
+      "name": "Zenless Zone Zero",
+      "path": "Zenless Zone Zero\\games\\ZenlessZoneZero Game",
+      "executable": "ZenlessZoneZero.exe"
+    },
+    {
+      "name": "Valorant",
+      "path": "Valorant\\live\\ShooterGame\\Binaries\\Win64",
+      "executable": "VALORANT-Win64-Shipping.exe"
+    },
+    {
+      "name": "Old School RuneScape",
+      "path": "Old School RuneScape\\bin\\win64",
+      "executable": "osclient.exe"
+    },
+    {
+      "name": "Delta Force",
+      "path": "Delta Force\\Game\\DeltaForce\\Binaries\\Win64",
+      "executable": "DeltaForceClient-Win64-Shipping.exe"
+    },
+    {
+      "name": "Stalzone",
+      "path": "STALZONE\\bin_global\\win64\\java\\bin",
+      "executable": "stalcraftw.exe"
+    },
+    {
+      "name": "RuneScape",
+      "path": "RuneScape\\bin\\win64",
+      "executable": "RuneScape.exe"
+    }
+  ]
+}
