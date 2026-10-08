@@ -149,6 +149,11 @@
       "name": "RuneScape",
       "path": "RuneScape\\bin\\win64",
       "executable": "RuneScape.exe"
+    },
+    {
+      "name": "March of Giants",
+      "path": "March of Giants\\TheLine\\Binaries\\Win64",
+      "executable": "TheLineClient.exe"
     }
   ]
 }
