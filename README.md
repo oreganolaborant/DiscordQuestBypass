@@ -5,6 +5,7 @@ does not work on video quests or activity quests
 
 # Showcase
 
+Click it!
 
 [![Video Title](https://img.youtube.com/vi/9pmdtzOMU1A/0.jpg)](https://www.youtube.com/watch?v=9pmdtzOMU1A)   
 
