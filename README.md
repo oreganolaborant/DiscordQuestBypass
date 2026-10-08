@@ -6,7 +6,7 @@ does not work on video quests or activity quests
 # Showcase
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9pmdtzOMU1A?si=yW2VTdFTPdSZlKa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video Title](https://img.youtube.com/vi/9pmdtzOMU1A/0.jpg)](https://www.youtube.com/watch?v=9pmdtzOMU1A)   
 
 
 
