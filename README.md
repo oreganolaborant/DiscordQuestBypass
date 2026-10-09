@@ -12,9 +12,13 @@ Click it!
 
 
 # How to use
+
 1 First download "DiscordQuestBypass.exe" on the release page and run it
+
 2 Click "update library" and wait a second
+
 3 Click "select game" then the game needed for the Discord Quest
+
 4 You can close the launcher but do not close the program until the quest is finished
 
 # QnA
