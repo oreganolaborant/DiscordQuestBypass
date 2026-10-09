@@ -1,11 +1,6 @@
 {
   "games": [
     {
-      "name": "AION 2",
-      "path": "Aion2\\Binaries\\Win64",
-      "executable": "AION2.exe"
-    },
-    {
       "name": "Apex Legends",
       "path": "Apex Legends",
       "executable": "r5apex.exe"
