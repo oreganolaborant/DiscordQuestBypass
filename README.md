@@ -1,6 +1,7 @@
 # DiscordQuestBypass
 
 A simple app to complets discord quest without having to own/play a game for 15 minutes
+
 does not work on video quests or activity quests
 
 # Showcase
@@ -13,7 +14,7 @@ Click it!
 
 # How to use
 
-1 First download "DiscordQuestBypass.exe" on the release page and run it
+1 First download "DiscordQuestBypass.exe" on https://tools.xeron.site and run it
 
 2 Click "update library" and wait a second
 
