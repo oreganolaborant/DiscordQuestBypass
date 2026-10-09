@@ -48,3 +48,5 @@ Please open a ticket in the "issues" github pages and ill try to fix it when i g
 # Credits
 
 https://github.com/TakiiiNotFound/DiscordQuestBypass
+
+https://github.com/strykey/orbshacker
