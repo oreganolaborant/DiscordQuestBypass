@@ -18,7 +18,7 @@
     {
       "name": "Deadzone Rogue 2",
       "path": "Deadzone Rogue 2\\Deadzone2\\Binaries\\Win64",
-      "executable": "Deadzone2Steam-Win64-Shipping.exe"
+      "executable": "Deadzone2Steam.exe"
     },
     {
       "name": "Delta Force",
