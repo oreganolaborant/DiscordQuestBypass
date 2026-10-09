@@ -2,7 +2,7 @@
   "games": [
     {
       "name": "AION 2",
-      "path": "AION2\\Aion2\\Binaries\\Win64",
+      "path": "Aion2\\Binaries\\Win64",
       "executable": "AION2.exe"
     },
     {
