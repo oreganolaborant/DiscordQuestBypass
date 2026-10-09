@@ -2,7 +2,7 @@
 
 A simple app to complets discord quest without having to own/play a game for 15 minutes
 
-does not work on video quests or activity quests
+!!! Does not work on video quests or activity quests !!!
 
 # Showcase
 
@@ -38,12 +38,6 @@ if the game is missing use the "update library" and if it is still not here wait
 4 The program crashes or gives me errors
 
 Please open a ticket in the "issues" github pages and ill try to fix it when i got some time 
-
-# ganmes that dont work
-
-- Forza Horizon 6
-
-- Goals
 
 # Credits
 
