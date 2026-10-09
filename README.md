@@ -22,20 +22,26 @@ Click it!
 4 You can close the launcher but do not close the program until the quest is finished
 
 # QnA
-1 Why does the window look weird after selecting a game
+1 Why does the window look weird after selecting a game?
+
 its because the "game bypass" use coloring that is not supported by default command line window so download windows terminal to fix this easly
 
-2 where are all the datas located
+2 Where are all the datas located?
+
 they are at c:\user\{current user}\appdata\roaming\DiscordQuestBypass
 
-3 A game is missing from the list what can i do
+3 A game is missing from the list what can I do?
+
 if the game is missing use the "update library" and if it is still not here wait a bit until i add it to the list 
 
 4 The program crashes or gives me errors
+
 Please open a ticket in the "issues" github pages and ill try to fix it when i got some time 
 
 # ganmes that dont work
+
 - Forza Horizon 6
+
 - Goals
 
 # Credits
