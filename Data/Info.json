@@ -16,9 +16,19 @@
       "executable": "Endfield.exe"
     },
     {
+      "name": "Deadzone Rogue 2",
+      "path": "Deadzone Rogue 2\\Deadzone2\\Binaries\\Win64",
+      "executable": "Deadzone2Steam-Win64-Shipping.exe"
+    },
+    {
       "name": "Delta Force",
       "path": "Delta Force\\Game\\DeltaForce\\Binaries\\Win64",
       "executable": "DeltaForceClient-Win64-Shipping.exe"
+    },
+    {
+      "name": "Dragon's Dogma 2",
+      "path": "Dragons Dogma 2",
+      "executable": "DD2.exe"
     },
     {
       "name": "Duet Night Abyss",
