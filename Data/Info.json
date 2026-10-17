@@ -16,6 +16,11 @@
       "executable": "Endfield.exe"
     },
     {
+      "name": "Call of Duty: Modern Warfare 4",
+      "path": "Call of Duty HQ",
+      "executable": "bootstrapper.exe"
+    },
+    {
       "name": "Deadzone Rogue 2",
       "path": "Deadzone Rogue 2\\Deadzone2\\Binaries\\Win64",
       "executable": "Deadzone2Steam.exe"
