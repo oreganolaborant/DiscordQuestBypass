@@ -16,6 +16,11 @@
       "executable": "Endfield.exe"
     },
     {
+      "name": "Asphalt Legends",
+      "path": "Asphalt Legends\\Asphalt9\\Binaries\\Win64",
+      "executable": "Asphalt9-Win64-Shipping.exe"
+    },
+    {
       "name": "Deadzone Rogue 2",
       "path": "Deadzone Rogue 2\\Deadzone2\\Binaries\\Win64",
       "executable": "Deadzone2Steam.exe"
@@ -64,6 +69,16 @@
       "name": "Genshin Impact",
       "path": "Genshin Impact\\Genshin Impact Game",
       "executable": "GenshinImpact.exe"
+    },
+    {
+      "name": "Honkai Star Rail",
+      "path": "Star Rail\\Games",
+      "executable": "StarRail.exe"
+    },
+    {
+      "name": "MapleStory Classic World",
+      "path": "MapleStory Classic World",
+      "executable": "MapleStory.exe"
     },
     {
       "name": "March of Giants",
@@ -126,11 +141,6 @@
       "executable": "stalcraftw.exe"
     },
     {
-      "name": "Star Rail",
-      "path": "Star Rail\\Games",
-      "executable": "StarRail.exe"
-    },
-    {
       "name": "The Mound Omen of Cthulhu Demo",
       "path": "The Mound Omen of Cthulhu Demo\\TheMound\\Binaries\\Win64",
       "executable": "TheMound-Win64-Shipping.exe"
@@ -159,6 +169,11 @@
       "name": "World of Tanks: HEAT",
       "path": "WoT HEAT",
       "executable": "wgcs_api.exe"
+    },
+    {
+      "name": "World of Warcraft: Forever",
+      "path": "World of Warcraft\\_retail_",
+      "executable": "Wow.exe"
     },
     {
       "name": "Wuthering Waves",
